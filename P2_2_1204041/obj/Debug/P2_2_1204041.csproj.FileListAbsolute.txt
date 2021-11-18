@@ -1,0 +1,6 @@
+c:\users\hendra\documents\visual studio 2015\Projects\P2_2_1204041\P2_2_1204041\bin\Debug\P2_2_1204041.exe.config
+c:\users\hendra\documents\visual studio 2015\Projects\P2_2_1204041\P2_2_1204041\bin\Debug\P2_2_1204041.exe
+c:\users\hendra\documents\visual studio 2015\Projects\P2_2_1204041\P2_2_1204041\bin\Debug\P2_2_1204041.pdb
+c:\users\hendra\documents\visual studio 2015\Projects\P2_2_1204041\P2_2_1204041\obj\Debug\P2_2_1204041.csprojResolveAssemblyReference.cache
+c:\users\hendra\documents\visual studio 2015\Projects\P2_2_1204041\P2_2_1204041\obj\Debug\P2_2_1204041.exe
+c:\users\hendra\documents\visual studio 2015\Projects\P2_2_1204041\P2_2_1204041\obj\Debug\P2_2_1204041.pdb
